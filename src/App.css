@@ -1,0 +1,82 @@
+/* ===General=== */
+
+* {
+   font-family: 'Open Sans', sans-serif;
+}
+
+a {
+   text-decoration: none;
+   color: rgb(24, 143, 136);
+}
+
+a:visited {
+   color: rgb(24, 143, 136);
+}
+
+.container {
+   max-width: 600px;
+   margin: 0 auto;
+}
+
+.title h1 {
+   font-family: 'Raleway', sans-serif;
+   font-weight: 700;
+}
+
+.title {
+   margin: 0 auto;
+   width: 169px;
+}
+
+/* ===Nav=== */
+
+.Nav {
+   width: 130px;
+   margin: 0 auto;
+}
+
+.Nav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+}
+
+.Nav li {
+   float: left;
+}
+
+.Nav a {
+   display: block;
+   padding: 8px;
+}
+
+/* ===About Me=== */
+
+.AboutMe {
+   font-family: 'Open Sans', sans-serif;
+}
+
+/* ===Project=== */
+
+.Project h1 {
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 400;
+   font-size: 25px;
+   display: inline-block;
+   margin: 0px;
+}
+
+.proj-link {
+   margin-left: 5px;
+   display: inline-block;
+}
+
+.proj-link img {
+   width: 20px;
+}
+
+.github {
+    display: block;
+    width: 20px;
+}
