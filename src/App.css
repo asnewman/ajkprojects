@@ -59,25 +59,3 @@ a:visited {
 }
 
 /* ===Project=== */
-
-.Project h1 {
-   font-family: 'Open Sans', sans-serif;
-   font-weight: 400;
-   font-size: 25px;
-   display: inline-block;
-   margin: 0px;
-}
-
-.proj-link {
-   margin-left: 5px;
-   display: inline-block;
-}
-
-.proj-link img {
-   width: 20px;
-}
-
-.github {
-    display: block;
-    width: 20px;
-}
