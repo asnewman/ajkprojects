@@ -3,7 +3,7 @@ import './App.css';
 
 import AboutMe from './Components/AboutMe';
 import Nav from './Components/Nav';
-import Project from './Components/Project';
+import Projects from './Components/Projects';
 
 class App extends Component {
   render() {
@@ -16,7 +16,7 @@ class App extends Component {
             <Nav />
             <hr />
             <AboutMe />
-            <Project />
+            <Projects />
          </div>
 
       </div>
