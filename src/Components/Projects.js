@@ -12,9 +12,9 @@ class Project extends Component {
    render() {
       return (
          <div className="Project">
+            <ReactMarkdown source={StockDog} escapeHtml={false} />
             <ReactMarkdown source={Kozo} escapeHtml={false} />
             <ReactMarkdown source={Pickmo} escapeHtml={false} />
-            <ReactMarkdown source={StockDog} escapeHtml={false} />
             <ReactMarkdown source={TransUnion} escapeHtml={false} />
             <ReactMarkdown source={BillBody} escapeHtml={false} />
             <ReactMarkdown source={LeagueRatings} escapeHtml={false} />
