@@ -1,64 +1,71 @@
 /* ===General=== */
 
 * {
-   font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 a {
-   text-decoration: none;
-   color: rgb(24, 143, 136);
+  text-decoration: none;
+  color: rgb(24, 143, 136);
 }
 
 a:visited {
-   color: rgb(24, 143, 136);
+  color: rgb(24, 143, 136);
 }
 
 .container {
-   max-width: 600px;
-   width: 90%;
-   margin: 0 auto;
+  max-width: 600px;
+  width: 90%;
+  margin: 0 auto;
 }
 
 .title h1 {
-   font-family: 'Raleway', sans-serif;
-   font-weight: 700;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
 }
 
 .title {
-   margin: 0 auto;
-   width: 169px;
+  margin: 0 auto;
+  width: 169px;
 }
 
 /* ===Nav=== */
 
 .Nav {
-   width: 130px;
-   margin: 0 auto;
+  width: 130px;
+  margin: 0 auto;
 }
 
 .Nav ul {
-   list-style-type: none;
-   margin: 0;
-   padding: 0;
-   overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 .Nav li {
-   float: left;
+  float: left;
 }
 
 .Nav a {
-   display: block;
-   padding: 8px;
+  display: block;
+  padding: 8px;
 }
 
 /* ===About Me=== */
 
 .AboutMe {
-   font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 /* ===Project=== */
 .responsive-image {
-   width: 100%;
+  width: 100%;
+}
+
+.small-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }

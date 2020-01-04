@@ -15,7 +15,6 @@ You can see a demo of the project here:
 
 And here is the a picture of the (very tired) team:
 
-<img alt="Team Enjinx" src="https://s3-us-west-2.amazonaws.com/www.ajkprojects.com/img/enjinx.jpg" class="responsive-image">
-`
+<img src="https://ajkprojects-assets.s3-us-west-2.amazonaws.com/enjinx.JPG" alt="Enjinx team"  class="responsive-image"/>`;
 
 export default content;

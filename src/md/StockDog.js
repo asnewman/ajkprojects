@@ -1,8 +1,11 @@
 const content = `
-# StockDog (2017-present) [<img src="https://s3-us-west-2.amazonaws.com/www.ajkprojects.com/img/github-logo-big.png" alt="StockDog Github" width="25px"/>](https://github.com/sshaul/StockDog)
-A platform to learn the basics of stock trading while competing with friends and other users around the world. While the trading money is virtual, the competition pools have an optional monetary prize pool that the winner takes. Features multiple competition modes as well as social media features for user engagement. A production version of the site can be found at [www.stockdogapp.com](www.stockdogapp.com). Please note that this production version is not fully complete and its database will be constantly cleared. Alternatively, view the demo below (the project is still in development and so only a sliver of the system is shown):
+# StockDog (2017-present) [<img src="https://ajkprojects-assets.s3-us-west-2.amazonaws.com/github-logo.svg" alt="github logo" height="25" />](https://github.com/StockDog)
+<img src="https://ajkprojects-assets.s3-us-west-2.amazonaws.com/stockdog.png" alt="StockDog logo"  class="responsive-image"/>
 
-<img src="https://s3-us-west-2.amazonaws.com/www.ajkprojects.com/img/StockDog.gif" alt="Stock Dog Demo" class="responsive-image" />
+
+StockDog is a trading platform where there is no risk, some reward. Aimed towards new traders who have both fears of losing money and missing out on making money, StockDog allows you to practice trading real stocks using virtual currency while competing with people around the world. *StockDog is currently in alpha testing phase with a handful of users.*
+
+Originally started as a senior group project in college, this idea has blossomed into a potential startup venture that I hope to developer with my team of developers across the US. Currently, the project is a React Native mobile app supported by a Python Flask backend and a few AWS Lambda functions.
 `;
 
 export default content;
