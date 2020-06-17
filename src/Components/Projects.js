@@ -13,6 +13,7 @@ class Project extends Component {
     return (
       <div className="Project">
         <ReactMarkdown source={StockDog} escapeHtml={false} />
+        <ReactMarkdown source={Fooodee} escapeHtml={false} />
         <ReactMarkdown source={NgoHub} escapeHtml={false} />
         <ReactMarkdown source={Pickmo} escapeHtml={false} />
         <ReactMarkdown source={TransUnion} escapeHtml={false} />
