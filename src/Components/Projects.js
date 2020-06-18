@@ -6,7 +6,7 @@ import TransUnion from "../md/TransUnion.js";
 import NgoHub from "../md/NgoHub.js";
 import StockDog from "../md/StockDog.js";
 import Pickmo from "../md/Pickmo.js";
-import Fooodee from "../md/fooodee.js";
+import Fooodee from "../md/Fooodee.js";
 
 class Project extends Component {
   render() {
