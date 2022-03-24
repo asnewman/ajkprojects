@@ -3,9 +3,8 @@ const content = `
 
 My main interests in the software engineering field are the following:
 - Privacy
-- Automated stock trading
+- Productivity
 - Javascript and its frameworks (React, React Native, Node, and Typescript)
-- Gaming
 
 Below you will find a description of a few of my projects, but there are more projects I have worked on displayed on my [Github page](https://github.com/asnewman).
 `;
