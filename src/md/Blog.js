@@ -1,5 +1,6 @@
 const content = `
 All my blog posts are on write.as, a privacy oriented minimal blogging website. Please see the links below to read them:
+## [Communication Exhaustion and Being Alone](https://ash.mataroa.blog/blog/communication-exhaustion-and-being-alone/)
 ## [My Blogs Posts Will Be Lists](https://ash.mataroa.blog/blog/my-blogs-posts-will-be-lists/)
 ## [How I Reward Myself with Good Habits – The Kozukai Method](https://write.as/ashleynewman/how-i-reward-myself-with-good-habits-the-kozukai-method)
 ## [Be More Like SpongeBob](https://write.as/ashleynewman/be-more-like-spongebob)
