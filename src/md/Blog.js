@@ -1,5 +1,6 @@
 const content = `
 All my blog posts are on write.as, a privacy oriented minimal blogging website. Please see the links below to read them:
+## [Consume, Produce, Burn](https://ash.mataroa.blog/blog/consume-produce-burn/)
 ## [On Remembering Advice](https://ash.mataroa.blog/blog/on-remembering-advice/)
 ## [Communication Exhaustion and Being Alone](https://ash.mataroa.blog/blog/communication-exhaustion-and-being-alone/)
 ## [My Blogs Posts Will Be Lists](https://ash.mataroa.blog/blog/my-blogs-posts-will-be-lists/)
